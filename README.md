@@ -1,4 +1,4 @@
-# Python-Projects-
+# Python-Projects
 I am sharing here different pythons projects starting from very basic to intermediate level and the to the advance level as well. 
 Most projects ideas come from the Udemy course: 100 Days of Code: The Complete Python Pro Bootcamp
 
